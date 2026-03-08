@@ -62,4 +62,4 @@ https://github.com/Umeshjyani
 https://www.linkedin.com/in/umeshjyani
 
 📧 Email
-[umeshjyani000@gmail.com](mailto:umeshjyanijaat@gmail.com)
+[umeshjyanijaat@gmail.com](mailto:umeshjyanijaat@gmail.com)
