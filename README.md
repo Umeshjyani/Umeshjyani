@@ -2,9 +2,9 @@
 
 ### Full Stack Developer | AI & Microsoft 365 Developer
 
-Hi 👋 I'm **Umesh Jyani**, a **Full Stack Developer from India** building scalable **web applications, enterprise dashboards, and AI-powered products**.
+Hi 👋 I'm **Umesh Jyani**, a Full Stack Developer from India building **scalable web applications, enterprise dashboards, and AI-powered products**.
 
-💡 I work with **React, Node.js, Microsoft 365 (SPFx), Power Platform, and Azure AI / Copilot** to create modern business solutions.
+I work with **React, Node.js, Microsoft 365 (SPFx), Power Platform, and Azure AI / Copilot** to create modern business solutions.
 
 ---
 
@@ -25,13 +25,13 @@ Hi 👋 I'm **Umesh Jyani**, a **Full Stack Developer from India** building scal
 
 ## 💼 Experience
 
-**Full Stack Developer — Cubic Logics Pvt. Ltd.**
-📅 May 2023 – Present
+🧠 **3+ years experience building enterprise software**
 
-• Built **enterprise dashboards & financial reporting tools**
-• Developed **SharePoint solutions using SPFx**
-• Implemented workflows with **Power Automate**
-• Integrated APIs using **Node.js & MongoDB**
+• Developing **SharePoint solutions using SPFx**
+• Building **AI-powered product features using Azure AI & Copilot**
+• Creating **financial dashboards and reporting platforms**
+• Building **scalable full stack applications using React & Node.js**
+• Automating workflows with **Power Platform (Power Apps & Power Automate)**
 
 ---
 
@@ -62,4 +62,4 @@ https://github.com/Umeshjyani
 https://www.linkedin.com/in/umeshjyani
 
 📧 Email
-[umeshjyani000@gmail.com](mailto:umeshjyani000@gmail.com)
+[umeshjyani000@gmail.com](mailto:umeshjyanijaat@gmail.com)
